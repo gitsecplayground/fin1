@@ -1,0 +1,1 @@
+fincybersec{[[FLAG1]]}
